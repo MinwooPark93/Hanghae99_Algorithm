@@ -1,3 +1,5 @@
+// 프로그래머스 홀수짝수
+
 // 내 풀이 방법
 
 function solution(num) {
