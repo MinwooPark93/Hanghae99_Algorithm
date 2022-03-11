@@ -32,4 +32,4 @@ function oddOrEven(num) {
 
 console.log(oddOrEven(3))
 
-// 삼항연산자에 대해서 공부해 볼 필요가 있을 것 같음
+// 삼항연산자에 대해서 공부해 볼 필요가 있음
